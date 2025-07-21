@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A Node.js script for generating TOTP secrets and RSA signing keys",
   "main": "keygen.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyrell-wilchick/qcorp-key-generation.git"
+  },
   "publishConfig": {
-    "@tyrell-wilchick:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "start": "node keygen.js"
