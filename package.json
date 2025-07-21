@@ -1,5 +1,5 @@
 {
-  "name": "qcorp-key-generation",
+  "name": "@tyrell-wilchick/qcorp-key-generation",
   "version": "1.0.0",
   "description": "A Node.js script for generating TOTP secrets and RSA signing keys",
   "main": "keygen.js",
